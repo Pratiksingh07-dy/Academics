@@ -346,28 +346,6 @@ Aggregation    → Relationship treated as an entity
 
 ---
 
-## 📷 Diagrams You May Want to Add
-
-> The notation diagram and specialization/generalization diagram are already generated above — save them from the chat (right-click → save image, or use the download option on the widget) into your repo as:
-> ```text
-> DBMS/assets/er_notation.png
-> DBMS/assets/eer_specialization.png
-> ```
-> Then embed them in this file with:
-> ```md
-> ![ER Notation](./assets/er_notation.png)
-> ![EER Specialization](./assets/eer_specialization.png)
-> ```
-
-> 🔍 **Optional extra diagrams to search & download from Google Images:**
-> - `"complete ER diagram example library management system"` — a full worked example diagram
-> - `"EER aggregation example diagram DBMS"` — for the aggregation concept specifically
-> - `"ER to relational mapping diagram"` — useful bridge into the next topic
-
----
-
-## References
-
 1. Korth, Silberschatz, Sudarshan — *Database System Concepts*, 6th Edition, McGraw-Hill
 2. Elmasri and Navathe — *Fundamentals of Database Systems*, 5th Edition, Pearson
 3. G. K. Gupta — *Database Management Systems*, McGraw-Hill
