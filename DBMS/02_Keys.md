@@ -274,6 +274,8 @@ CREATE TABLE Student (
 <p align="center">
   <sub><i>Image Reference: GeeksforGeeks</i></sub>
 </p>
+
+
 ### Interview Shortcut
 
 > **Unique Key = like Primary Key, but allows one NULL and you can have several per table.**
