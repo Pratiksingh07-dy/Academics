@@ -458,7 +458,7 @@ Natural Join     → Auto-join on same-named columns
 ---
 
 <p align="center">
-  <img src="./assets/sql-table-joins.png" alt="Different Types of Keys in DBMS" width="900">
+  <img src="./assets/sql-table-joins.png" alt="Different Types of Joins" width="900">
 </p>
 
 
