@@ -473,6 +473,8 @@ Layer 2  Data Link      → MAC addressing, node delivery (frames)
 Layer 1  Physical       → Raw bits over cables/wireless signals
 ```
 
+cute fact: during our semester our teacher taught us this technique to memorize the layers 
+"Aap(A) Padhai(P) krte Samay(S) Tv(T) Na(N) Dekhe(D) Please(P)" and it did worked well 
 ---
 
 <p align="center">
